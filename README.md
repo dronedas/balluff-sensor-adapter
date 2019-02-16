@@ -1,0 +1,1 @@
+# balluff-sensor-adapter
